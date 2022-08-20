@@ -538,6 +538,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Vero */
+.button.button-vero {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-vero:hover,
+.button.button-vero:focus {
+  filter: brightness(90%);
+}
+
 /* Vimeo */
 .button.button-vimeo {
   color: #ffffff;
